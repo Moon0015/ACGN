@@ -1,4 +1,5 @@
-# 漫画
+# caricature
+
 * 偷星九月天
 * 九九八十一
 * 摩登时代 （戒魔人）
@@ -20,10 +21,7 @@
 * 魔人猎物者
 * 盘龙
 * 将夜
-
- 
-
   
-Charlotte
-周刊少年JUMP
-赤丸JUMP 
+`Charlotte`
+`周刊少年JUMP`
+`赤丸JUMP` 
