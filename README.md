@@ -1,2 +1,2 @@
 # ACGN
-- Animation、Comic、Gal-game）、Novel
+- Animation、Comic、Gal-game、Novel
